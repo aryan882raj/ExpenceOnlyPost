@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin-top: 40px;
+}
+.box{
+    background-color: lightblue;
+    border:1px solid blue;
+    min-height: 30px;
+    font-size: 2rem;
+}
+header {
+    background: #f4f4f4;
+    padding: 1rem;
+    text-align: center;
+}
+.btn1 {
+    /* display: block; */
+    width: 10%;
+
+    padding: 10px 20px;
+    border: 0;
+    background: rgb(183, 131, 183);
+    color: #fff;
+    border-radius: 100px;
+    margin: 10px;
+}
